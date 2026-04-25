@@ -1,0 +1,13 @@
+{
+  "name": "telegram-file-bot",
+  "version": "1.0.0",
+  "description": "Work document Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "fs-extra": "^11.2.0"
+  }
+}
